@@ -1,6 +1,6 @@
 ﻿public sealed class Logger
 {
-    private static Logger _instance;
+    private static Logger? _instance;
     private static readonly object _lock = new object();
 
     private Logger() { }
