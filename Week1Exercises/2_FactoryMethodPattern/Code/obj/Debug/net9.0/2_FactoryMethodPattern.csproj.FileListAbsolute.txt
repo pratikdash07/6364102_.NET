@@ -1,0 +1,15 @@
+C:\Users\KIIT\Desktop\Cognizant .net\6364102_.NET\Week1Exercises\2_FactoryMethodPattern\bin\Debug\net9.0\2_FactoryMethodPattern.exe
+C:\Users\KIIT\Desktop\Cognizant .net\6364102_.NET\Week1Exercises\2_FactoryMethodPattern\bin\Debug\net9.0\2_FactoryMethodPattern.deps.json
+C:\Users\KIIT\Desktop\Cognizant .net\6364102_.NET\Week1Exercises\2_FactoryMethodPattern\bin\Debug\net9.0\2_FactoryMethodPattern.runtimeconfig.json
+C:\Users\KIIT\Desktop\Cognizant .net\6364102_.NET\Week1Exercises\2_FactoryMethodPattern\bin\Debug\net9.0\2_FactoryMethodPattern.dll
+C:\Users\KIIT\Desktop\Cognizant .net\6364102_.NET\Week1Exercises\2_FactoryMethodPattern\bin\Debug\net9.0\2_FactoryMethodPattern.pdb
+C:\Users\KIIT\Desktop\Cognizant .net\6364102_.NET\Week1Exercises\2_FactoryMethodPattern\obj\Debug\net9.0\2_FactoryMethodPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Desktop\Cognizant .net\6364102_.NET\Week1Exercises\2_FactoryMethodPattern\obj\Debug\net9.0\2_FactoryMethodPattern.AssemblyInfoInputs.cache
+C:\Users\KIIT\Desktop\Cognizant .net\6364102_.NET\Week1Exercises\2_FactoryMethodPattern\obj\Debug\net9.0\2_FactoryMethodPattern.AssemblyInfo.cs
+C:\Users\KIIT\Desktop\Cognizant .net\6364102_.NET\Week1Exercises\2_FactoryMethodPattern\obj\Debug\net9.0\2_FactoryMethodPattern.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\Cognizant .net\6364102_.NET\Week1Exercises\2_FactoryMethodPattern\obj\Debug\net9.0\2_FactoryMethodPattern.sourcelink.json
+C:\Users\KIIT\Desktop\Cognizant .net\6364102_.NET\Week1Exercises\2_FactoryMethodPattern\obj\Debug\net9.0\2_FactoryMethodPattern.dll
+C:\Users\KIIT\Desktop\Cognizant .net\6364102_.NET\Week1Exercises\2_FactoryMethodPattern\obj\Debug\net9.0\refint\2_FactoryMethodPattern.dll
+C:\Users\KIIT\Desktop\Cognizant .net\6364102_.NET\Week1Exercises\2_FactoryMethodPattern\obj\Debug\net9.0\2_FactoryMethodPattern.pdb
+C:\Users\KIIT\Desktop\Cognizant .net\6364102_.NET\Week1Exercises\2_FactoryMethodPattern\obj\Debug\net9.0\2_FactoryMethodPattern.genruntimeconfig.cache
+C:\Users\KIIT\Desktop\Cognizant .net\6364102_.NET\Week1Exercises\2_FactoryMethodPattern\obj\Debug\net9.0\ref\2_FactoryMethodPattern.dll

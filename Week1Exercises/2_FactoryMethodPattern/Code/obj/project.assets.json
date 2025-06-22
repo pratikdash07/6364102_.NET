@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\KIIT\\Desktop\\Cognizant .net\\6364102_.NET\\Week1Exercises\\2_FactoryMethodPattern\\FactoryMethodPattern\\FactoryMethodPattern.csproj",
-      "projectName": "FactoryMethodPattern",
-      "projectPath": "C:\\Users\\KIIT\\Desktop\\Cognizant .net\\6364102_.NET\\Week1Exercises\\2_FactoryMethodPattern\\FactoryMethodPattern\\FactoryMethodPattern.csproj",
+      "projectUniqueName": "C:\\Users\\KIIT\\Desktop\\Cognizant .net\\6364102_.NET\\Week1Exercises\\2_FactoryMethodPattern\\2_FactoryMethodPattern.csproj",
+      "projectName": "2_FactoryMethodPattern",
+      "projectPath": "C:\\Users\\KIIT\\Desktop\\Cognizant .net\\6364102_.NET\\Week1Exercises\\2_FactoryMethodPattern\\2_FactoryMethodPattern.csproj",
       "packagesPath": "C:\\Users\\KIIT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\KIIT\\Desktop\\Cognizant .net\\6364102_.NET\\Week1Exercises\\2_FactoryMethodPattern\\FactoryMethodPattern\\obj\\",
+      "outputPath": "C:\\Users\\KIIT\\Desktop\\Cognizant .net\\6364102_.NET\\Week1Exercises\\2_FactoryMethodPattern\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\KIIT\\AppData\\Roaming\\NuGet\\NuGet.Config"
